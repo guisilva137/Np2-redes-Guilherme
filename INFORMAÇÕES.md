@@ -15,6 +15,7 @@ Exemplo prático para estudo de Redes de Computadores e programação com socket
 Tecnologias Utilizadas:
 
 Python 3
+
 Biblioteca socket
 
 Como Funciona:
